@@ -59,18 +59,17 @@ finTransaccion:     .asciz  "\n-------------------------------------------------
 mip1:	.asciz "                     ....  ....  ....  ......\n"
 mipr1:	.asciz "                     |   \\/   |  |  |  |     \\ \n"
 mip2: 	.asciz "                     |  |\\/|  |  |  |  |  |>  |\n"
-mipr2:	.asciz "                     |  |   |  |  |  |  |  ___/\n"
-mip3:	.asciz "                     |..|   |..|  |..|  |..|\n\n"
+mipr2:	.asciz "                     |  |  |  |  |  |  |  ___/\n"
+mip3:	.asciz "                     |..|  |..|  |..|  |..|\n\n"
 mip4:	.asciz "    [--]            UNIVERSIDAD DE EL SALVADOR            [--]\n"
-mip5:	.asciz "    [--]       Facultad de Ingeniería y Arquitectura      [--]\n"
-mip6:	.asciz "    [--]     Escuela de Ing. de Sistemas Informáticos     [--]\n"
+mip5:	.asciz "    [--]       Facultad de Ingenieria y Arquitectura      [--]\n"
+mip6:	.asciz "    [--]     Escuela de Ing. de Sistemas Informaticos     [--]\n"
 mip7: 	.asciz "    [--]                  Proyecto:                       [--]\n"
 mip8:	.asciz "    [--]       Transacciones de ventas en tienda          [--]\n"
 mip9:	.asciz "    [--]                 Creado por:                      [--]\n"
 mip10:	.asciz "    [--]    Alejandro Martinez & Concepcion Orellana      [--]\n"
 mip11:	.asciz "    [--] .________________________________________________[--]\n"
 mip12:	.asciz "    \\_.---------------------------------------------------- /\n"
-
 
     
     .text
